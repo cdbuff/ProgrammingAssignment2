@@ -3,6 +3,9 @@
 ## Author: Charlie Buffkin
 ## Date: 26-Sep-2015
 ## Class: Coursera, R Programming (rprog-032)
+## This code is heavily based on the makeVector and cachemean functions
+## that were provided as demonstration examples of how something like this
+## could be done. The comments, however, are mine.
 ##############################################################################
 
 ## The two functions below work together to establish and hold a matrix and
